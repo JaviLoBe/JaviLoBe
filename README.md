@@ -1,4 +1,6 @@
-### Hello, my name is Javier López. I am glad to welcome you to my GitHub profile 👋
+### Javier López Bértolo GitHub Profile https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Fgithub-github-logo-github-icon-6980894%2F&psig=AOvVaw2sQMGgkTVSaM1YNQf59Mgy&ust=1689942765898000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCW0sOlnYADFQAAAAAdAAAAABAE.png
+
+Hello, my name is Javier López. I am glad to welcome you to my GitHub profile 👋
 
 I am currently working as a PhD researcher at the University of Vigo. My main line of research is about energy efficiency on buildings.
 
