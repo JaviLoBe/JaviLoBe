@@ -1,4 +1,4 @@
-### Javier López Bértolo GitHub Profile :octocat:
+### :octocat:Javier López Bértolo GitHub Profile
 
 Hello, my name is Javier López. I am glad to welcome you to my GitHub profile
 
