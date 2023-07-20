@@ -1,6 +1,6 @@
 ### Javier López Bértolo GitHub Profile :octocat:
 
-Hello, my name is Javier López. I am glad to welcome you to my GitHub profile 👋
+Hello, my name is Javier López. I am glad to welcome you to my GitHub profile
 
 I am currently working as a PhD researcher at the University of Vigo. My main line of research is about energy efficiency on buildings.
 
